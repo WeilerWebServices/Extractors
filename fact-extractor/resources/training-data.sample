@@ -1,0 +1,246 @@
+25	0	Con	PRE	con	Attività	O
+25	1	la Nazionale Under	ENT	il	Attività	B-Squadra_Attività
+25	2	ha	VER:pres	avere	Attività	O
+25	3	giocato	VER:pper	giocare	Attività	B-LU
+25	4	una	DET:indef	una	Attività	O
+25	5	partita	ENT	partita	Attività	B-Competizione_Attività
+25	6	di	PRE	di	Attività	O
+25	7	qualificazione	ENT	qualificazione	Attività	B-Competizione_Attività
+25	8	agli	PRE:det	al	Attività	O
+25	9	Europei di categoria	ENT	europeo	Attività	B-Competizione_Attività
+25	10	.	SENT	.	Attività	O
+30	0	Ha	VER:pres	avere	Attività	O
+30	1	esordito	VER:pper	esordire	Attività	O
+30	2	con	PRE	con	Attività	O
+30	3	la	DET:def	il	Attività	O
+30	4	Nazionale cipriota	ENT	nazionale	Attività	B-Squadra_Attività
+30	5	nel 1991	ENT	nel	Attività	B-Tempo_Attività
+30	6	,	PON	,	Attività	O
+30	7	giocando	VER:geru	giocare	Attività	B-LU
+30	8	41	NUM	@card@	Attività	O
+30	9	partite	NOM	partita	Attività	O
+30	10	fino	CON	fino	Attività	O
+30	11	al	PRE:det	al	Attività	O
+30	12	1997	ENT	@card@	Attività	B-Durata_Attività
+30	13	.	SENT	.	Attività	O
+20	0	La	DET:def	il	Attività	O
+20	1	stagione successiva	ENT	stagione	Attività	B-Tempo_Attività
+20	2	va	VER:pres	andare	Attività	O
+20	3	al	PRE:det	al	Attività	O
+20	4	Manfredonia	ENT	Manfredonia	Attività	B-Squadra_Attività
+20	5	,	PON	,	Attività	O
+20	6	giocando	VER:geru	giocare	Attività	B-LU
+20	7	titolare	ENT	titolare	Attività	B-Agente_Attività
+20	8	per	PRE	per	Attività	O
+20	9	tutta	ADJ	tutto	Attività	O
+20	10	la stagione	ENT	il	Attività	B-Durata_Attività
+20	11	.	SENT	.	Attività	O
+14	0	Ha	VER:pres	avere	Attività	O
+14	1	esordito	VER:pper	esordire	Attività	O
+14	2	con	PRE	con	Attività	O
+14	3	la	DET:def	il	Attività	O
+14	4	Nazionale cipriota	ENT	nazionale	Attività	B-Squadra_Attività
+14	5	nel 1982	ENT	nel	Attività	B-Tempo_Attività
+14	6	,	PON	,	Attività	O
+14	7	giocando	VER:geru	giocare	Attività	B-LU
+14	8	6	NUM	@card@	Attività	O
+14	9	partite	NOM	partita	Attività	O
+14	10	fino	CON	fino	Attività	O
+14	11	al	PRE:det	al	Attività	O
+14	12	1991	ENT	@card@	Attività	B-Tempo_Attività
+14	13	.	SENT	.	Attività	O
+19	0	Ha	VER:pres	avere	Attività	O
+19	1	giocato	VER:pper	giocare	Attività	B-LU
+19	2	7	NUM	@card@	Attività	O
+19	3	partite	NOM	partita	Attività	O
+19	4	per	PRE	per	Attività	O
+19	5	la	DET:def	il	Attività	O
+19	6	Nazionale cipriota	ENT	nazionale	Attività	B-Squadra_Attività
+19	7	tra	PRE	tra	Attività	O
+19	8	il 2004	ENT	il	Attività	B-Tempo_Attività
+19	9	e	CON	e	Attività	O
+19	10	il 2004	ENT	il	Attività	B-Tempo_Attività
+19	11	.	SENT	.	Attività	O
+46	0	Ha	VER:pres	avere	Attività	O
+46	1	giocato	VER:pper	giocare	Attività	B-LU
+46	2	7	NUM	@card@	Attività	O
+46	3	partite	NOM	partita	Attività	O
+46	4	(	PON	(	Attività	O
+46	5	segnando	VER:geru	segnare	Attività	O
+46	6	un	DET:indef	un	Attività	O
+46	7	gol	NOM	gol	Attività	O
+46	8	)	PON	)	Attività	O
+46	9	nella	PRE:det	nel	Attività	O
+46	10	Nazionale	ENT	nazionale	Attività	B-Squadra_Attività
+46	11	Under 21	ENT	Under	Attività	B-Squadra_Attività
+46	12	della	PRE:det	del	Attività	O
+46	13	Germania Ovest	ENT	Germania	Attività	B-Squadra_Attività
+46	14	.	SENT	.	Attività	O
+56	0	Ha	VER:pres	avere	Attività	O
+56	1	sempre	ENT	sempre	Attività	B-Durata_Attività
+56	2	giocato	VER:pper	giocare	Attività	B-LU
+56	3	nel	PRE:det	nel	Attività	O
+56	4	campionato	NOM	campionato	Attività	O
+56	5	cubano	ENT	cubano	Attività	B-Competizione_Attività
+56	6	.	SENT	.	Attività	O
+45	0	Ha	VER:pres	avere	Attività	O
+45	1	giocato	VER:pper	giocare	Attività	B-LU
+45	2	nella	PRE:det	nel	Attività	O
+45	3	massima serie	ENT	massimo	Attività	B-Competizione_Attività
+45	4	dei	PRE:det	del	Attività	O
+45	5	campionati	ENT	campionato	Attività	B-Competizione_Attività
+45	6	uruguaiano	ENT	<unknown>	Attività	B-Competizione_Attività
+45	7	e	CON	e	Attività	O
+45	8	argentino	ENT	argentino	Attività	B-Competizione_Attività
+45	9	.	SENT	.	Attività	O
+42	0	Ha	VER:pres	avere	Attività	O
+42	1	giocato	VER:pper	giocare	Attività	B-LU
+42	2	nella	PRE:det	nel	Attività	O
+42	3	massima serie	ENT	massimo	Attività	B-Competizione_Attività
+42	4	di	PRE	di	Attività	O
+42	5	Nigeria	ENT	Nigeria	Attività	B-Competizione_Attività
+42	6	,	PON	,	Attività	O
+42	7	Malta	ENT	Malta	Attività	B-Competizione_Attività
+42	8	e	CON	e	Attività	O
+42	9	Bulgaria	ENT	Bulgaria	Attività	B-Competizione_Attività
+42	10	.	SENT	.	Attività	O
+43	0	Con	PRE	con	Attività	O
+43	1	la Nazionale	ENT	il	Attività	B-Squadra_Attività
+43	2	del	PRE:det	del	Attività	O
+43	3	suo	PRO:poss	suo	Attività	O
+43	4	paese	NOM	paese	Attività	O
+43	5	,	PON	,	Attività	O
+43	6	ha	VER:pres	avere	Attività	O
+43	7	giocato	VER:pper	giocare	Attività	B-LU
+43	8	la Nazionale	ENT	il	Attività	B-Squadra_Attività
+43	9	d'	PRE	d'	Attività	O
+43	10	Africa	ENT	Africa	Attività	B-Competizione_Attività
+43	11	2010	NUM	@card@	Attività	O
+43	12	.	SENT	.	Attività	O
+36	0	Dopo	PRE	dopo	Attività	O
+36	1	l'	DET:def	il	Attività	O
+36	2	esperienza	NOM	esperienza	Attività	O
+36	3	torinese	ADJ	torinese	Attività	O
+36	4	gioca	VER:pres	giocare	Attività	B-LU
+36	5	un	DET:indef	un	Attività	O
+36	6	anno	ENT	anno	Attività	B-Tempo_Attività
+36	7	con	PRE	con	Attività	O
+36	8	la	DET:def	il	Attività	O
+36	9	Fiorentina	ENT	Fiorentina	Attività	B-Squadra_Attività
+36	10	,	PON	,	Attività	O
+36	11	suo	PRO:poss	suo	Attività	O
+36	12	ultimo	ADJ	ultimo	Attività	O
+36	13	club	NOM	club	Attività	O
+36	14	professionistico	ADJ	professionistico	Attività	O
+36	15	.	SENT	.	Attività	O
+1	0	Nel	PRE:det	nel	Attività	O
+1	1	1934	ENT	@card@	Attività	B-Tempo_Attività
+1	2	si	PRO:pers	si	Attività	O
+1	3	trasferì	VER:remo	trasferire	Attività	O
+1	4	all'	PRE:det	al	Attività	O
+1	5	Ambrosiana	ENT	ambrosiano	Attività	B-Squadra_Attività
+1	6	,	PON	,	Attività	O
+1	7	dove	PRO:rela	dove	Attività	O
+1	8	giocò	VER:remo	giocare	Attività	B-LU
+1	9	4 incontri	ENT	@card@	Attività	B-Durata_Attività
+1	10	nell'	PRE:det	nel	Attività	O
+1	11	unica stagione	ENT	unico	Attività	B-Durata_Attività
+1	12	in	PRE	in	Attività	O
+1	13	nerazzurro	ENT	nerazzurro	Attività	B-Squadra_Attività
+1	14	.	SENT	.	Attività	O
+0	0	Ha	VER:pres	avere	Attività	O
+0	1	giocato	VER:pper	giocare	Attività	B-LU
+0	2	nella	PRE:det	nel	Attività	O
+0	3	massima	ADJ	massimo	Attività	O
+0	4	serie	NOM	serie	Attività	O
+0	5	del	PRE:det	del	Attività	O
+0	6	campionato	ENT	campionato	Attività	B-Competizione_Attività
+0	7	honduregno	ADJ	<unknown>	Attività	O
+0	8	con	PRE	con	Attività	O
+0	9	la	DET:def	il	Attività	O
+0	10	Real	ENT	Real	Attività	B-Squadra_Attività
+0	11	España	NOM	<unknown>	Attività	O
+0	12	.	SENT	.	Attività	O
+16	0	Haladás	ENT	avere	Attività	B-Squadra_Attività
+16	1	giocato	VER:pper	giocare	Attività	B-LU
+16	2	nella	PRE:det	nel	Attività	O
+16	3	massima serie	ENT	massimo	Attività	B-Competizione_Attività
+16	4	ungherese	ENT	ungherese	Attività	B-Competizione_Attività
+16	5	con	PRE	con	Attività	O
+16	6	MTK	ENT	<unknown>	Attività	B-Squadra_Attività
+16	7	Budapest	ENT	Budapest	Attività	B-Squadra_Attività
+16	8	e	CON	e	Attività	O
+16	9	Haladás	ENT	<unknown>	Attività	B-Squadra_Attività
+16	10	.	SENT	.	Attività	O
+74	0	Ha	VER:pres	avere	Attività	O
+74	1	giocato	VER:pper	giocare	Attività	B-LU
+74	2	in	PRE	in	Attività	O
+74	3	tutte	ADJ	tutto	Attività	O
+74	4	le	DET:def	il	Attività	O
+74	5	Nazionali	ENT	nazionale	Attività	B-Squadra_Attività
+74	6	giovanili	ENT	giovanile	Attività	B-Squadra_Attività
+74	7	italiane	ENT	italiano	Attività	B-Squadra_Attività
+74	8	,	PON	,	Attività	O
+74	9	dalla	PRE:det	dal	Attività	O
+74	10	Under-16	ENT	<unknown>	Attività	B-Squadra_Attività
+74	11	alla	PRE:det	al	Attività	O
+74	12	Under-21	ENT	<unknown>	Attività	B-Squadra_Attività
+74	13	.	SENT	.	Attività	O
+64	0	Nel	PRE:det	nel	Attività	O
+64	1	1960	ENT	@card@	Attività	B-Tempo_Attività
+64	2	passa	ADJ	passo	Attività	O
+64	3	al	PRE:det	al	Attività	O
+64	4	Livorno	ENT	Livorno	Attività	B-Squadra_Attività
+64	5	giocando	VER:geru	giocare	Attività	B-LU
+64	6	per	PRE	per	Attività	O
+64	7	un	DET:indef	un	Attività	O
+64	8	altro	ADJ	altro	Attività	O
+64	9	anno	ENT	anno	Attività	B-Tempo_Attività
+64	10	in	PRE	in	Attività	O
+64	11	Serie C	ENT	serie	Attività	B-Competizione_Attività
+37	0	Nella	PRE:det	nel	Attività	O
+37	1	stagione 1922-1923	ENT	stagione	Attività	B-Durata_Attività
+37	2	gioca	VER:pres	giocare	Attività	B-LU
+37	3	in	PRE	in	Attività	O
+37	4	Prima Divisione	ENT	prima|primo	Attività	B-Competizione_Attività
+37	5	con	PRE	con	Attività	O
+37	6	l'	DET:def	il	Attività	O
+37	7	Alessandria	ENT	Alessandria	Attività	B-Squadra_Attività
+37	8	con	PRE	con	Attività	O
+37	9	12	NUM	@card@	Attività	O
+37	10	presenze	NOM	presenza	Attività	O
+37	11	.	SENT	.	Attività	O
+70	0	Ha	VER:pres	avere	Attività	O
+70	1	giocato	VER:pper	giocare	Attività	B-LU
+70	2	nella	PRE:det	nel	Attività	O
+70	3	massima serie	ENT	massimo	Attività	B-Competizione_Attività
+70	4	dei	PRE:det	del	Attività	O
+70	5	campionati	ENT	campionato	Attività	B-Competizione_Attività
+70	6	islandese	ENT	islandese	Attività	B-Competizione_Attività
+70	7	e	CON	e	Attività	O
+70	8	svedese	ENT	svedese	Attività	B-Competizione_Attività
+70	9	.	SENT	.	Attività	O
+5	0	Ha	VER:pres	avere	Attività	O
+5	1	giocato	VER:pper	giocare	Attività	B-LU
+5	2	la	DET:def	il	Attività	O
+5	3	sua	PRO:poss	suo	Attività	O
+5	4	unica	ADJ	unico	Attività	O
+5	5	partita	NOM	partita	Attività	O
+5	6	in	PRE	in	Attività	O
+5	7	Nazionale	ENT	nazionale	Attività	B-Squadra_Attività
+5	8	nel 2000	ENT	nel	Attività	B-Tempo_Attività
+5	9	.	SENT	.	Attività	O
+58	0	Prima	ADV	prima	Attività	O
+58	1	del	PRE:det	del	Attività	O
+58	2	ritiro	NOM	ritiro	Attività	O
+58	3	definitivo	ADJ	definitivo	Attività	O
+58	4	giocò	VER:remo	giocare	Attività	B-LU
+58	5	uno scampolo	ENT	uno	Attività	B-Durata_Attività
+58	6	di	PRE	di	Attività	O
+58	7	stagione	ENT	stagione	Attività	B-Durata_Attività
+58	8	come	PRE	come	Attività	O
+58	9	giocatore/allenatore	NOM	<unknown>	Attività	O
+58	10	nel	PRE:det	nel	Attività	O
+58	11	Baracca	NOM	baracca	Attività	O
+58	12	Lugo	ENT	<unknown>	Attività	B-Squadra_Attività
+58	13	.	SENT	.	Attività	O

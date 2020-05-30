@@ -1,0 +1,4 @@
+htm;html;stm;stml;shtml;cfm;asp;idc;txt;text;js;xsp;css;xml;rxml
+gif;jpg;jpeg;tif;tiff;xbm;bmp
+All others
+exe;zip;rar;arj;gz

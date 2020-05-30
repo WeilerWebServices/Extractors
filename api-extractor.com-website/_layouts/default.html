@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% include base/meta.html %}
+
+    {% if page.title %}
+    <title>API Extractor: {{ page.title }}</title>
+    {% else %}
+    <title>API Extractor</title>
+    {% endif %}
+
+    {% include base/styles.html %}
+  </head>
+
+  <body>
+    {% include base/top_nav.html %}
+
+    {{ content }}
+
+    {% include base/footer.html %}
+  </body>
+</html>
